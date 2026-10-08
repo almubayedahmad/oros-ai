@@ -1,2 +1,7 @@
-# oros-ai
-Oros Ai - Unified AI Assistant with Multiple Provider Layer
+# Oros AI
+
+Oros AI is a modular multi-provider AI assistant layer built for Vercel deployment.
+
+## Environment variables
+
+See `.env.example` for required server-only configuration.
